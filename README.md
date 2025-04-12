@@ -1,2 +1,2 @@
 # vlamprakakis.github.io
-Creating a website for Varymmompi School Parents - Teacher Assosiacion 
+Creating a website for Varympompi School Parents - Teacher Assosiacion 
